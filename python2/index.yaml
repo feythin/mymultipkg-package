@@ -1,0 +1,17 @@
+---
+default:
+  name: ops-python2
+  summary: 'Python is an interpreted, interactive, object-oriented programming language'
+  version: '2.7.8'
+  http: https://www.python.org/ftp/python/2.7.8/Python-2.7.8.tgz
+  buildprefix: /home/ops/python
+  packager: feythin.lau
+rpm:
+  buildrequires:
+    - bzip2-devel
+    - sqlite-devel
+    - readline-devel
+    - openssl-devel
+    - zlib-devel
+rpm:
+  release: 2%{?dist}
