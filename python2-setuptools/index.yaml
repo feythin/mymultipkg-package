@@ -3,6 +3,7 @@ default:
   name: ops-python2-setuptools
   version: "6.0.2"
   release: 1
+  packager: feythin.lau
   pypi: setuptools
   summary: Easily download, build, install, upgrade, and uninstall Python packages
   python: /home/ops/python/bin/python

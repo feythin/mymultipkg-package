@@ -14,4 +14,4 @@ rpm:
     - openssl-devel
     - zlib-devel
 rpm:
-  release: 2%{?dist}
+  release: 1%{?dist}
