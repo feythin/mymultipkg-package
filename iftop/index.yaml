@@ -1,0 +1,14 @@
+---
+default:
+  name: ops-iftop
+  version: "6.0.2"
+  release: 1
+  packager: feythin.lau
+  summary: iftop does for network usage what top(1) does for CPU usage 
+  http: http://www.ex-parrot.com/pdw/iftop/download/iftop-0.17.tar.gz 
+  requires:
+    - libpcap
+    - ncurses 
+  buildrequires:
+    - libpcap-devel
+    - ncurses-devel

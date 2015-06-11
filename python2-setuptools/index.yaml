@@ -7,7 +7,6 @@ default:
   pypi: setuptools
   summary: Easily download, build, install, upgrade, and uninstall Python packages
   python: /home/ops/python/bin/python
-  http: https://pypi.python.org/packages/source/s/setuptools/setuptools-6.0.2.tar.gz#md5=b79fab610e362fe8e3a9cb92fb9d95ef
   requires:
     - ops-python2
   buildrequires:
