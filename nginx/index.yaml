@@ -1,0 +1,15 @@
+default:
+  name: nginx
+  http: http://nginx.org/download/nginx-1.9.0.tar.gz 
+  version: 1.9.0
+  arch: x86_64
+rpm:
+        release: '1.centos6'
+        requires:
+                - glibc >= 2.12-1
+                - nss-softokn-freebl >= 3.14.3-9
+                - openssl >= 1.0.1e-30
+                - pcre >= 7.8-6
+                - zlib >= 1.2.3-29
+
+# cpan-module will fetch directly from CPAN
