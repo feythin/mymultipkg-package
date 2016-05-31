@@ -1,0 +1,9 @@
+#!/bin/sh
+./configure
+make
+make install INSTALL_ROOT=$DESTDIR 
+/sbin/ldconfig
+cd libltdl
+./configure --enable-ltdl-install
+make
+make install INSTALL_ROOT=$DESTDIR

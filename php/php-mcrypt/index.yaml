@@ -1,0 +1,7 @@
+default:
+  build: '1'
+  name: mcrypt
+  release: '1'
+  version: '2.6.8'
+  packager: feythin.lau
+  license: GPL

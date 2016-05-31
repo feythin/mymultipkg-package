@@ -1,0 +1,7 @@
+default:
+  build: '1'
+  name: icu 
+  release: '1'
+  version: '53.1'
+  packager: feythin.lau
+  license: GPL

@@ -1,0 +1,7 @@
+default:
+  build: '1'
+  name: mongo 
+  release: '1'
+  version: '1.6.5'
+  packager: feythin.lau
+  license: GPL

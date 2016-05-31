@@ -1,0 +1,32 @@
+default:
+  name: php
+  requires:
+    - make
+    - bzip2
+    - bzip2-devel
+    - curl-devel
+    - gd-devel
+    - glibc-common
+    - mcrypt
+    - libxml2-devel
+    - openldap-devel
+    - openssl-devel
+    - pcre-devel
+    - zlib-devel
+    - libiconv
+    - libjpeg-devel
+    - libpng-devel
+    - freetype-devel
+    - cyrus-sasl-devel
+    - libxslt-devel
+    - ImageMagick-devel
+    - net-snmp-devel
+    - readline-devel
+    - libevent-devel
+    - libxml2-devel
+
+  arch: 'x86_64'
+  version: '5.6.21'
+  release: '1'
+  packager: 'feythin lau'
+  license: 'PHP License'

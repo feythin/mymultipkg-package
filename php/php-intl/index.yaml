@@ -1,0 +1,7 @@
+default:
+  build: '1'
+  name: intl
+  release: '1'
+  version: '3.0.0'
+  packager: feythin.lau
+  license: GPL

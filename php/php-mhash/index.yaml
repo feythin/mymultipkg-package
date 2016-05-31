@@ -1,0 +1,7 @@
+default:
+  build: '1'
+  name: mhash 
+  release: '2'
+  version: '0.9.9.9'
+  packager: feythin.lau
+  license: GPL

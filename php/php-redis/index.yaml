@@ -1,0 +1,7 @@
+default:
+  build: '1'
+  name: redis 
+  release: '1'
+  version: '2.2.7'
+  packager: feythin.lau
+  license: GPL

@@ -1,0 +1,7 @@
+default:
+  build: '1'
+  name: LuaJIT 
+  release: '1'
+  version: '2.0.3'
+  packager: feythin.lau
+  license: GPL

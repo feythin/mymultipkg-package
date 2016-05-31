@@ -1,0 +1,7 @@
+default:
+  build: '1'
+  name: memcached
+  release: '1'
+  version: '2.2.0'
+  packager: feythin.lau
+  license: GPL

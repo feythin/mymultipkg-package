@@ -1,0 +1,7 @@
+default:
+  build: '1'
+  name: nginx 
+  release: '1'
+  version: '1.10.0'
+  packager: feythin.lau
+  license: GPL

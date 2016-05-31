@@ -1,0 +1,7 @@
+default:
+  build: '1'
+  name: autoconf 
+  release: '1'
+  version: '2.69'
+  packager: feythin.lau
+  license: GPL

@@ -1,0 +1,7 @@
+default:
+  build: '1'
+  name: libiconv 
+  release: '2'
+  version: '1.14'
+  packager: feythin.lau
+  license: GPL

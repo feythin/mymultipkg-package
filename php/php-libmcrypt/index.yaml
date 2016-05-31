@@ -1,0 +1,7 @@
+default:
+  build: '1'
+  name: libmcrypt 
+  release: '1'
+  version: '2.5.8'
+  packager: feythin.lau
+  license: GPL

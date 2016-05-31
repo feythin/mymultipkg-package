@@ -1,0 +1,7 @@
+default:
+  build: '1'
+  name: libmemcached 
+  release: '1'
+  version: '1.0.18'
+  packager: feythin.lau
+  license: GPL

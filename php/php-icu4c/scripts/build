@@ -1,0 +1,5 @@
+#!/bin/sh
+cd source
+./configure --prefix=/usr/local/icu
+make
+make install
